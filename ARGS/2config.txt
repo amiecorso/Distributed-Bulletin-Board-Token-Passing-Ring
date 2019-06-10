@@ -1,5 +1,0 @@
-client_port: 3451-3461
-my_port: 3457
-join_time: 0:05
-leave_time: 1:30
-

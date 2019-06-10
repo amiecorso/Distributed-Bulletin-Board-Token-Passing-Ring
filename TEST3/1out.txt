@@ -1,28 +1,25 @@
-0:0: previous hop is changed to client 3460
-0:0: next hop is changed to client 3460
-0:0: started election, send election 20668 message to client 3460
-0:0: leader selected electionid=20668
-0:0: new token generated 20668
-0:5: post "N1_M1 5 seconds" was sent
-0:5: post "N1_M1 5 seconds" was delivered to all successfully
-0:5: previous hop is changed to client 3458
-0:5: next hop is changed to client 3458
-0:7: ring is broken
-0:8: next hop is changed to client 3458
-0:9: started election, send election 41408 message to client 3458
-0:9: leader selected electionid=41408
-0:9: new token generated 41408
+0:00: previous hop is changed to client 3460
+0:00: next hop is changed to client 3460
+0:01: started election, send election 5611 message to client 3460
+0:01: leader selected electionid=5611
+0:01: new token generated 5611
+0:05: post "N1_M1 5 seconds" was sent
+0:05: post "N1_M1 5 seconds" was delivered to all successfully
+0:05: previous hop is changed to client 3458
+0:05: next hop is changed to client 3458
+0:05: relayed election message 2395, replaced leader
+0:05: leader selected electionid=2395
+0:05: new token generated 2395
 0:15: post "N3_M1 15 seconds" from client 3458 was relayed
-0:15: relayed election message 51082, replaced leader
-0:17: relayed election message 27033, replaced leader
-0:19: ring is broken
-0:19: next hop is changed to client 3456
-0:20: relayed election message 96907, replaced leader
-0:20: leader selected electionid=96907
-0:20: new token generated 96907
+0:16: relayed election message 64831, replaced leader
+0:18: ring is broken
+0:18: next hop is changed to client 3456
+0:18: started election, send election 66555 message to client 3456
+0:18: leader selected electionid=66555
+0:18: new token generated 66555
+0:19: post "N2_M1 17 seconds" from client 3456 was relayed
 0:20: post "N1_M2 20 seconds" was sent
 0:20: post "N1_M2 20 seconds" was delivered to all successfully
-0:20: post "N2_M1 17 seconds" from client 3456 was relayed
 0:20: post "N2_M2 20 seconds" from client 3456 was relayed
 0:21: post "N1_M3 21 seconds" was sent
 0:21: post "N1_M3 21 seconds" was delivered to all successfully
@@ -33,15 +30,14 @@
 0:39: post "N3_M3 39 seconds" from client 3458 was relayed
 0:40: ring is broken
 0:40: next hop is changed to client 3456
-0:40: started election, send election 10500 message to client 3456
+0:41: started election, send election 66809 message to client 3456
 0:42: ring is broken
 0:42: next hop is changed to client 3456
-0:42: started election, send election 95082 message to client 3456
+0:42: started election, send election 3254 message to client 3456
 0:44: ring is broken
 0:45: previous hop is changed to client 3456
 0:45: next hop is changed to client 3456
-0:45: started election, send election 73926 message to client 3456
-0:45: leader selected electionid=73926
-0:45: new token generated 73926
+0:45: started election, send election 28533 message to client 3456
+0:45: leader selected electionid=28533
+0:45: new token generated 28533
 0:45: post "N2_M4 40 seconds" from client 3456 was relayed
-0:50: ring is broken
