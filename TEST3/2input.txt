@@ -1,0 +1,4 @@
+0:17	N2_M1 17 seconds
+0:20	N2_M2 20 seconds
+0:30	N2_M3 30 seconds
+0:40	N2_M4 40 seconds

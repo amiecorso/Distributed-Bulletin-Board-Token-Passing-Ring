@@ -1,0 +1,88 @@
+0:1: previous hop is changed to client 3455
+0:1: next hop is changed to client 3455
+0:1: started election, send election 54683 message to client 3455
+0:1: leader selected electionid=54683
+0:2: new token generated 54683
+0:2: token 54683 was sent to client 3455
+0:2: token 54683 was received
+0:2: token 54683 was sent to client 3455
+0:3: token 54683 was received
+0:3: token 54683 was sent to client 3455
+0:4: token 54683 was received
+0:4: token 54683 was sent to client 3455
+0:4: token 54683 was received
+0:4: token 54683 was sent to client 3455
+0:5: token 54683 was received
+0:5: token 54683 was sent to client 3455
+0:5: token 54683 was received
+0:5: token 54683 was sent to client 3455
+0:6: token 54683 was received
+0:6: token 54683 was sent to client 3455
+0:6: token 54683 was received
+0:6: token 54683 was sent to client 3455
+0:7: token 54683 was received
+0:7: token 54683 was sent to client 3455
+0:7: token 54683 was received
+0:7: token 54683 was sent to client 3455
+0:8: token 54683 was received
+0:8: token 54683 was sent to client 3455
+0:8: token 54683 was received
+0:8: token 54683 was sent to client 3455
+0:9: token 54683 was received
+0:9: token 54683 was sent to client 3455
+0:9: token 54683 was received
+0:9: token 54683 was sent to client 3455
+0:10: token 54683 was received
+0:10: token 54683 was sent to client 3455
+0:10: token 54683 was received
+0:10: token 54683 was sent to client 3455
+0:11: token 54683 was received
+0:11: token 54683 was sent to client 3455
+0:11: token 54683 was received
+0:11: token 54683 was sent to client 3455
+0:12: token 54683 was received
+0:12: token 54683 was sent to client 3455
+0:12: token 54683 was received
+0:12: token 54683 was sent to client 3455
+0:13: token 54683 was received
+0:13: token 54683 was sent to client 3455
+0:13: token 54683 was received
+0:13: token 54683 was sent to client 3455
+0:14: token 54683 was received
+0:14: token 54683 was sent to client 3455
+0:14: token 54683 was received
+0:14: token 54683 was sent to client 3455
+0:15: token 54683 was received
+0:15: token 54683 was sent to client 3455
+0:15: token 54683 was received
+0:15: token 54683 was sent to client 3455
+0:16: token 54683 was received
+0:16: token 54683 was sent to client 3455
+0:16: token 54683 was received
+0:16: token 54683 was sent to client 3455
+0:17: token 54683 was received
+0:17: token 54683 was sent to client 3455
+0:17: token 54683 was received
+0:17: token 54683 was sent to client 3455
+0:18: token 54683 was received
+0:18: token 54683 was sent to client 3455
+0:18: token 54683 was received
+0:18: token 54683 was sent to client 3455
+0:19: token 54683 was received
+0:19: token 54683 was sent to client 3455
+0:19: token 54683 was received
+0:19: token 54683 was sent to client 3455
+0:20: token 54683 was received
+0:20: token 54683 was sent to client 3455
+0:20: token 54683 was received
+0:20: token 54683 was sent to client 3455
+0:21: token 54683 was received
+0:21: token 54683 was sent to client 3455
+0:21: token 54683 was received
+0:21: token 54683 was sent to client 3455
+0:22: token 54683 was received
+0:22: token 54683 was sent to client 3455
+0:22: token 54683 was received
+0:22: token 54683 was sent to client 3455
+0:23: token 54683 was received
+0:23: post "node1MSG1, 23 seconds" was sent

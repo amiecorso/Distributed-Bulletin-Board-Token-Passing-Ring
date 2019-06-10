@@ -1,0 +1,90 @@
+0:5: previous hop is changed to client 3458
+0:5: next hop is changed to client 3458
+0:6: started election, send election 26595 message to client 3458
+0:6: leader selected electionid=26595
+0:7: new token generated 26595
+0:7: token 26595 was sent to client 3458
+0:7: token 26595 was received
+0:7: token 26595 was sent to client 3458
+0:8: token 26595 was received
+0:8: token 26595 was sent to client 3458
+0:8: token 26595 was received
+0:8: token 26595 was sent to client 3458
+0:9: token 26595 was received
+0:9: token 26595 was sent to client 3458
+0:9: previous hop is changed to client 3460
+0:12: ring is broken
+0:12: previous hop is changed to client 3458
+0:12: next hop is changed to client 3458
+0:12: started election, send election 7472 message to client 3458
+0:12: leader selected electionid=7472
+0:13: new token generated 7472
+0:13: token 7472 was sent to client 3458
+0:13: token 7472 was received
+0:13: token 7472 was sent to client 3458
+0:14: token 7472 was received
+0:14: token 7472 was sent to client 3458
+0:14: token 7472 was received
+0:14: token 7472 was sent to client 3458
+0:15: token 7472 was received
+0:15: post "N3_M1 15 seconds" was sent
+0:15: previous hop is changed to client 3456
+0:18: ring is broken
+0:18: previous hop is changed to client 3458
+0:18: next hop is changed to client 3458
+0:19: started election, send election 13067 message to client 3458
+0:19: leader selected electionid=13067
+0:19: new token generated 13067
+0:19: post "N3_M1 15 seconds" was sent
+0:20: post "N3_M1 15 seconds" was delivered to all successfully
+0:20: token 13067 was sent to client 3458
+0:21: token 13067 was received
+0:21: token 13067 was sent to client 3458
+0:21: token 13067 was received
+0:21: token 13067 was sent to client 3458
+0:22: previous hop is changed to client 3456
+0:24: ring is broken
+0:24: next hop is changed to client 3460
+0:24: started election, send election 99050 message to client 3460
+0:26: ring is broken
+0:26: next hop is changed to client 3460
+0:27: started election, send election 75218 message to client 3460
+0:29: ring is broken
+0:29: next hop is changed to client 3460
+0:29: started election, send election 14670 message to client 3460
+0:29: relayed election message 14670, leader: client 3460
+0:30: post "N2_M2 20 seconds" from client 3456 was relayed
+0:31: post "N2_M3 30 seconds" from client 3456 was relayed
+0:31: token 14670 was received
+0:31: post "N3_M2 22 seconds" was sent
+0:32: post "N3_M2 22 seconds" was delivered to all successfully
+0:32: token 14670 was sent to client 3460
+0:32: token 14670 was received
+0:32: token 14670 was sent to client 3460
+0:33: token 14670 was received
+0:33: token 14670 was sent to client 3460
+0:33: token 14670 was received
+0:33: token 14670 was sent to client 3460
+0:34: token 14670 was received
+0:34: token 14670 was sent to client 3460
+0:35: token 14670 was received
+0:35: token 14670 was sent to client 3460
+0:35: token 14670 was received
+0:35: token 14670 was sent to client 3460
+0:36: token 14670 was received
+0:36: token 14670 was sent to client 3460
+0:36: token 14670 was received
+0:36: token 14670 was sent to client 3460
+0:37: token 14670 was received
+0:37: token 14670 was sent to client 3460
+0:37: token 14670 was received
+0:37: token 14670 was sent to client 3460
+0:38: token 14670 was received
+0:38: token 14670 was sent to client 3460
+0:38: token 14670 was received
+0:38: token 14670 was sent to client 3460
+0:39: token 14670 was received
+0:39: post "N3_M3 39 seconds" was sent
+0:39: post "N3_M3 39 seconds" was delivered to all successfully
+0:39: token 14670 was sent to client 3460
+0:40: ring is broken

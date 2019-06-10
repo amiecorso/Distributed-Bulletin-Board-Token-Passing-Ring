@@ -1,0 +1,1 @@
+java Main -c ARGS/3config.txt -i ARGS/3input.txt -o OUT/3out.txt
