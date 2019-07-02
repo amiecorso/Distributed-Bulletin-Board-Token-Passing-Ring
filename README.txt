@@ -7,9 +7,7 @@ Your First and Last name: Amie Corso
 Your Student ID: 951528694
 
 What programming language did you use to write your code?
-Java:  therefore the program must be executed as:
-"% java ring -c config.txt -i input.txt -o output.txt" (don't forget the java first!)
-thank you :) 
+Java
 
 your code compiles on ix-dev: Yes
 
